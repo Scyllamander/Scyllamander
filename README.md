@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### My Name is Scylla
+### I'm currently learning C++ and Git
+### I'm a game designer trying to branch into the programming field
 <!--
 **Scyllamander/Scyllamander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
